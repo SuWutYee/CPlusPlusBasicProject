@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BasicFeature.cpp" />
     <ClCompile Include="C++BasicProject.cpp" />
+    <ClCompile Include="IfElseCondition.cpp" />
+    <ClCompile Include="SwitchStatement.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainHeader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
