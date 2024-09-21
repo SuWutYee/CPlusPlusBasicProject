@@ -1,9 +1,9 @@
 #include "MainHeader.h"
+#include <string>
+#include <iostream>
+using namespace std;
 
 int main()
 {
-	IfElseCondition();
-	SwitchStatement();
-
 	return 0;
 }
