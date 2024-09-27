@@ -10,7 +10,7 @@ int main()
 	cin >> x;
 	return 0;*/
 
-    char one[] = "one";
+    /*char one[] = "one";
     char two[] = "two";
 
     cout << strcmp(one, two) << "\n";
@@ -25,7 +25,9 @@ int main()
     else
     {
         cout << "NotEqual";
-    }
+    }*/
+
+    Homework_Looping();
 
     return 0;
 }
