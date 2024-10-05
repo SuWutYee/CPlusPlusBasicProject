@@ -130,6 +130,7 @@
     <ClCompile Include="BasicFeature.cpp" />
     <ClCompile Include="C++BasicProject.cpp" />
     <ClCompile Include="Homework_Condition.cpp" />
+    <ClCompile Include="Homework_Looping.cpp" />
     <ClCompile Include="IfElseCondition.cpp" />
     <ClCompile Include="SwitchStatement.cpp" />
   </ItemGroup>

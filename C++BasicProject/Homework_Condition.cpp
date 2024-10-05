@@ -4,11 +4,11 @@ using namespace std;
 
 void Homework_Condition()
 {
-	string grade = NULL;
+	string grade = "";
 	int percentage = 90;
 
 	// If Else
-	/*if (percentage > 90)
+	if (percentage > 90)
 	{
 		grade = "A";
 	}
@@ -16,20 +16,20 @@ void Homework_Condition()
 	{
 		grade = "B";
 	}
-	else if(percentage > 65)
+	else if (percentage > 65)
 	{
 		grade = "C";
 	}
 	else
 	{
 		grade = "Fail";
-	}*/
+	}
 
 	// Ternary Operator
-	//grade = (percentage > 90) ? "A" : ((percentage > 75) ? "B" : ((percentage > 65) ? "C" : "Fail"));
+	grade = (percentage > 90) ? "A" : ((percentage > 75) ? "B" : ((percentage > 65) ? "C" : "Fail"));
 
 	// Switch Case
-	/*switch (percentage)
+	switch (percentage)
 	{
 	case 90:
 		grade = "A";
@@ -43,7 +43,7 @@ void Homework_Condition()
 	default:
 		grade = "Fail";
 		break;
-	}*/
+	}
 
 	cout << "Your Grade is " + grade;
 }
