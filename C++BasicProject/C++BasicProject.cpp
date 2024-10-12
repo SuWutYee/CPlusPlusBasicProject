@@ -24,10 +24,33 @@ int main()
 	//cout << cars[0];*/
 
 	//cout << cars->length();
-	string cars[6] = { "Volvo", "BMW", "Ford", "Mazda" , "Volvo1" , "BMW1" };
+	/*string cars[6] = { "Volvo", "BMW", "Ford", "Mazda" , "Volvo1" , "BMW1" };
 	for (int i = 0; i < cars->length() + 1; i++)
 	{
 		cout << cars[i] << "\n";
-	}
+	}*/
+
+
+	/*int myNumbers[5] = { 10, 20, 30, 40, 50 };
+	int getArrayLength = sizeof(myNumbers) / sizeof(myNumbers[0]);
+	cout << getArrayLength;*/
+
+	/*string letters[2][4] = {
+	{ "A", "B", "C", "D" },
+	{ "E", "F", "G", "H" }
+	};
+
+	for (int i = 0; i < 2; i++) {
+		for (int j = 0; j < 4; j++) {
+			cout << letters[i][j] << " ";
+		}
+		cout << "\n";
+	}*/
+
+	enum Level {
+		LOW,
+		MEDIUM,
+		HIGH
+	};
 	return 0;
 }
