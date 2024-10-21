@@ -10,24 +10,24 @@ int main()
 	cin >> x;
 	return 0;*/
 
-    /*char one[] = "one";
-    char two[] = "two";
+	/*char one[] = "one";
+	char two[] = "two";
 
-    cout << strcmp(one, two) << "\n";
+	cout << strcmp(one, two) << "\n";
 
-    if (one == two) {
-        cout << "Equal";
-    }
+	if (one == two) {
+		cout << "Equal";
+	}
 
-    if (strcmp(one, two) == 0) {
-        cout << "Equal";
-    }
-    else
-    {
-        cout << "NotEqual";
-    }*/
+	if (strcmp(one, two) == 0) {
+		cout << "Equal";
+	}
+	else
+	{
+		cout << "NotEqual";
+	}*/
 
-    Homework_Looping();
+	Homework_Looping();
 
-    return 0;
+	return 0;
 }

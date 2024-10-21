@@ -33,6 +33,9 @@
     <ClCompile Include="Homework_Looping.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StarProblem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainHeader.h">

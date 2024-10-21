@@ -132,6 +132,7 @@
     <ClCompile Include="Homework_Condition.cpp" />
     <ClCompile Include="Homework_Looping.cpp" />
     <ClCompile Include="IfElseCondition.cpp" />
+    <ClCompile Include="StarProblem.cpp" />
     <ClCompile Include="SwitchStatement.cpp" />
   </ItemGroup>
   <ItemGroup>
